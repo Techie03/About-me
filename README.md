@@ -23,7 +23,7 @@ RAG · LLM Orchestration · Agentic Workflows · NLP · Data Engineering<br>
 <a href="https://github.com/Techie03">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://nishithsportfolio.web.app">
+<a href="https://nishithmareddy.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://leetcode.com/Techie03/">
@@ -489,7 +489,7 @@ I'm actively looking for **AI/ML engineering roles** where I can build real syst
 <a href="https://www.linkedin.com/in/nishithchowdary/">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://nishithsportfolio.web.app">
+<a href="https://nishithmareddy.vercel.app">
 <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 
